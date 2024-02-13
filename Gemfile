@@ -10,7 +10,6 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 4.3.3"
 
 #Changed the theme
-gem "minimal"
 gem "minimal-mistakes-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
