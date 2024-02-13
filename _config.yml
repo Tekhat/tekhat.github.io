@@ -35,7 +35,7 @@ github_username:  Tekhat
 lang: fr_FR
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
